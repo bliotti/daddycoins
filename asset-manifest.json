@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bliotti.github.io/daddycoins/static/css/main.073c9b0a.css",
-    "main.js": "/bliotti.github.io/daddycoins/static/js/main.109f2254.js",
-    "static/js/787.ed9a3e77.chunk.js": "/bliotti.github.io/daddycoins/static/js/787.ed9a3e77.chunk.js",
-    "static/media/logo.svg": "/bliotti.github.io/daddycoins/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/bliotti.github.io/daddycoins/index.html",
-    "main.073c9b0a.css.map": "/bliotti.github.io/daddycoins/static/css/main.073c9b0a.css.map",
-    "main.109f2254.js.map": "/bliotti.github.io/daddycoins/static/js/main.109f2254.js.map",
-    "787.ed9a3e77.chunk.js.map": "/bliotti.github.io/daddycoins/static/js/787.ed9a3e77.chunk.js.map"
+    "main.css": "/daddycoins/static/css/main.073c9b0a.css",
+    "main.js": "/daddycoins/static/js/main.2e8b6b09.js",
+    "static/js/787.ed9a3e77.chunk.js": "/daddycoins/static/js/787.ed9a3e77.chunk.js",
+    "static/media/logo.svg": "/daddycoins/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/daddycoins/index.html",
+    "main.073c9b0a.css.map": "/daddycoins/static/css/main.073c9b0a.css.map",
+    "main.2e8b6b09.js.map": "/daddycoins/static/js/main.2e8b6b09.js.map",
+    "787.ed9a3e77.chunk.js.map": "/daddycoins/static/js/787.ed9a3e77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.109f2254.js"
+    "static/js/main.2e8b6b09.js"
   ]
 }
